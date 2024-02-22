@@ -12,16 +12,15 @@ export default [
         link: 'https://dylanozzy.github.io/Daily-Scheduler/',
     },
     {
-        title: 'Note Taker',
-        imgUrl: '/assets/note.png', 
-        stack: ['HTML', 'CSS', 'JavaScript'],
-        link: '',
-    },
-    {
         title: 'Password Generator',
         imgUrl: '/assets/passgen1.png', 
         stack: ['HTML', 'CSS', 'JavaScript'],
         link: 'https://dylanozzy.github.io/Password-Generator/',
     },
-    
+    {
+        title: 'Note Taker',
+        imgUrl: '/assets/note.png', 
+        stack: ['HTML', 'CSS', 'JavaScript'],
+        link: '',
+    },
 ]
